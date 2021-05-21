@@ -1,7 +1,7 @@
 # Bhalai-Hack
 
 # Idea
-As We know The Old age persons Face a bit of diffucilty when they are registering or Having some queries So our idea is to make their task simple by simplifing the work of the OLD AGE person.
+As We know The Old age persons Face a bit of difficulty when they are registering or Having some queries. So, our idea is to make their task simple by simplifying the work for the OLD AGE person.
 
 # More Details
 Lets Hack For Old Age Person
